@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+MERGED from [com.android.support:design:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\c47042585b4ba886df2b56ce4406aa7c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\612e5ad85c405213d0d271481672e1b8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\9b197769d7e56c23818ec891cebcf8b5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\802752fdbf6a25553e8136eb633e2e5d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\61c614a88ab8dd44218c09288b078bb1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\580f89de47fa0d76f87c712dc4572ce0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\d1896e5a2efc766c6ed59c8c0d05151f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\3b29045af44065f396d6efb2c5c2f2d1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0ec7a25a97ed13231bb0baface9e6985\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\c1de69a436bec992301428c4bb89ad67\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\eb4c874da0d711014893ed3ffe7af264\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\4d4b08c57e85da39c3619ef2728f03b5\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+	package
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:17:5-44
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:1-48:12
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:19:5-46:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\c47042585b4ba886df2b56ce4406aa7c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\c47042585b4ba886df2b56ce4406aa7c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\612e5ad85c405213d0d271481672e1b8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\612e5ad85c405213d0d271481672e1b8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\9b197769d7e56c23818ec891cebcf8b5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\9b197769d7e56c23818ec891cebcf8b5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\802752fdbf6a25553e8136eb633e2e5d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\802752fdbf6a25553e8136eb633e2e5d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\61c614a88ab8dd44218c09288b078bb1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\61c614a88ab8dd44218c09288b078bb1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\580f89de47fa0d76f87c712dc4572ce0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\580f89de47fa0d76f87c712dc4572ce0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\3b29045af44065f396d6efb2c5c2f2d1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\3b29045af44065f396d6efb2c5c2f2d1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0ec7a25a97ed13231bb0baface9e6985\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0ec7a25a97ed13231bb0baface9e6985\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\c1de69a436bec992301428c4bb89ad67\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\c1de69a436bec992301428c4bb89ad67\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\eb4c874da0d711014893ed3ffe7af264\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\eb4c874da0d711014893ed3ffe7af264\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\4d4b08c57e85da39c3619ef2728f03b5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\4d4b08c57e85da39c3619ef2728f03b5\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.droidcafe.MainActivity
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.android.droidcafe.OrderActivity
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:parentActivityName
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:37:17-88
+	android:label
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:36:19-63
+	android:name
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:35:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:38:13-41:48
+	android:value
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:41:17-46
+	android:name
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml:39:17-63
+uses-sdk
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\c47042585b4ba886df2b56ce4406aa7c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\c47042585b4ba886df2b56ce4406aa7c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\612e5ad85c405213d0d271481672e1b8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\612e5ad85c405213d0d271481672e1b8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\9b197769d7e56c23818ec891cebcf8b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\9b197769d7e56c23818ec891cebcf8b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\802752fdbf6a25553e8136eb633e2e5d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\802752fdbf6a25553e8136eb633e2e5d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\61c614a88ab8dd44218c09288b078bb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\61c614a88ab8dd44218c09288b078bb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\580f89de47fa0d76f87c712dc4572ce0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\580f89de47fa0d76f87c712dc4572ce0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\d1896e5a2efc766c6ed59c8c0d05151f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\d1896e5a2efc766c6ed59c8c0d05151f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\3b29045af44065f396d6efb2c5c2f2d1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\3b29045af44065f396d6efb2c5c2f2d1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0ec7a25a97ed13231bb0baface9e6985\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\0ec7a25a97ed13231bb0baface9e6985\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\c1de69a436bec992301428c4bb89ad67\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\c1de69a436bec992301428c4bb89ad67\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\eb4c874da0d711014893ed3ffe7af264\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\eb4c874da0d711014893ed3ffe7af264\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\4d4b08c57e85da39c3619ef2728f03b5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\4d4b08c57e85da39c3619ef2728f03b5\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\dslab\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\c47042585b4ba886df2b56ce4406aa7c\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dslab\Desktop\naff\DroidCafePart3\app\src\main\AndroidManifest.xml
